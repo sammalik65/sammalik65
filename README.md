@@ -4,7 +4,6 @@ Full stack developer from Pakistan with **8 years** of experience building web p
 
 Lately I've been working on geospatial features for an agricultural platform (satellite imagery, NDVI, field polygons) and building my own **AI agent tools** on the side.
 
-📍 Sargodha, Pakistan · 🌍 Open to remote work
 
 ---
 
